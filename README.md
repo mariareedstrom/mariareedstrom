@@ -1,3 +1,4 @@
+![Banner](https://user-images.githubusercontent.com/74778527/218216407-2009b052-2ffe-4eb8-a633-22ade84f9bc3.png)
 # Hi y'all👋  I'm Maria!
 
 Motivated and enthusiastic full-stack developer. 
